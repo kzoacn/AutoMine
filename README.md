@@ -4,6 +4,7 @@
 
 改进自 [BoomMine](https://github.com/ArtrixTech/BoomMine)
 
+缩放请调整至100%
 
 ## Usage
 
